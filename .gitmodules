@@ -5,6 +5,7 @@
 [submodule "external/libpng"]
 	path = external/libpng
 	url = https://android.googlesource.com/platform/external/libpng
+        branch = oreo-r6-release
 [submodule "external/libjpeg-turbo"]
 	path = external/libjpeg-turbo
 	url = https://github.com/libjpeg-turbo/libjpeg-turbo
