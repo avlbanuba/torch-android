@@ -4,7 +4,7 @@
         branch = type-redux
 [submodule "external/libpng"]
 	path = external/libpng
-	url = https://github.com/android/platform_external_libpng
+	url = https://android.googlesource.com/platform/external/libpng
 [submodule "external/libjpeg-turbo"]
 	path = external/libjpeg-turbo
 	url = https://github.com/libjpeg-turbo/libjpeg-turbo
