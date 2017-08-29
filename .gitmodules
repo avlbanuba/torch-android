@@ -2,10 +2,9 @@
 	path = distro
 	url = https://github.com/NVIDIA/torch-distro
         branch = type-redux
-[submodule "external/libpng"]
-	path = external/libpng
-	url = https://android.googlesource.com/platform/external/libpng
-        branch = oreo-r6-release
 [submodule "external/libjpeg-turbo"]
 	path = external/libjpeg-turbo
 	url = https://github.com/libjpeg-turbo/libjpeg-turbo
+[submodule "external/libpng"]
+	path = external/libpng
+	url = https://github.com/android/platform_external_libpng
